@@ -112,6 +112,8 @@ Entre outras melhorias ainda não mapaeadas.
 
 --------------------
 Desenvolvido por Cleber Maia (cleberlmaia@gmail.com)
+
 Whatsapp: 55 51 985121207
+
 Outubro de 2018
 --------------------
